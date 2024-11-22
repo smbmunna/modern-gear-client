@@ -1,16 +1,26 @@
 import { useEffect } from "react";
 import { useState } from "react";
+import TopProductCard from "../TopProductCard/TopProductCard";
 
 const TopProducts = () => {
-    const [topProducts, setTopProducts]= useState([]);
-    useEffect(()=>{
+    const [topProducts, setTopProducts] = useState([]);
+    useEffect(() => {
         fetch('topProducts.json')
-        .then(res=>res.json())
-        .then(data=>setTopProducts(data))
-    },[])
+            .then(res => res.json())
+            .then(data => setTopProducts(data))
+    }, [])
     return (
         <div>
-            <h1>Number of Top Products: {topProducts.length}</h1>
+            <h2 className="text-2xl font-bold text-center uppercase m-8">Top Products</h2>
+            <div className="grid grid-cols-3 justify-items-center mb-8">
+                {
+                    topProducts.map(topProduct => <TopProductCard
+                        key={topProduct.key}
+                        topProduct={topProduct}
+
+                    />)
+                }
+            </div>
         </div>
     );
 };

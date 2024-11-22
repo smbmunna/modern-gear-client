@@ -1,23 +1,26 @@
 [
     {
+      "id": "TP-00001",
       "name": "Crystal Jellyfish Lamp",
-      "image": "https://example.com/images/jellyfish_lamp.jpg",
+      "image": "https://i.ibb.co.com/cwxHf1R/ASTRONAUT.png",
       "title": "Color-Changing Jellyfish 3D Crystal Ball",
       "description": "A mesmerizing color-changing LED crystal ball featuring a lifelike jellyfish design. Perfect for home decor or as a gift.",
       "price": 39.99,
       "rating": 4.8
     },
     {
+      "id": "TP-00002",
       "name": "Saturn LED Night Light",
-      "image": "https://example.com/images/saturn_lamp.jpg",
+      "image": "https://i.ibb.co.com/NsKD8gw/DANDELION.png",
       "title": "3D Saturn LED Crystal Lamp",
       "description": "Illuminate your room with this enchanting Saturn-shaped crystal ball that changes colors with soft LED lighting.",
       "price": 49.99,
       "rating": 4.6
     },
     {
+      "id": "TP-00003",
       "name": "Deer Crystal Ornament",
-      "image": "https://example.com/images/deer_crystal.jpg",
+      "image": "https://i.ibb.co.com/m5b50DD/GLOBE.png",
       "title": "LED Color-Changing Deer 3D Crystal Ball",
       "description": "A stunning LED crystal ball with a detailed deer design. A perfect centerpiece for your living room or bedroom.",
       "price": 44.99,
