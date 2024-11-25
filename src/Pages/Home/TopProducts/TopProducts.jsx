@@ -10,12 +10,12 @@ const TopProducts = () => {
             .then(data => setTopProducts(data))
     }, [])
     return (
-        <div>
-            <h2 className="text-2xl font-bold text-center uppercase m-8">Top Products</h2>
-            <div className="grid grid-cols-3 justify-items-center mb-8">
+        <div className=" bg-black text-white">
+            <h2 className="text-2xl font-bold text-center uppercase p-8">Top Products</h2>
+            <div className="grid grid-cols-3 justify-items-center pb-8">
                 {
                     topProducts.map(topProduct => <TopProductCard
-                        key={topProduct.key}
+                        key={topProduct.id}
                         topProduct={topProduct}
 
                     />)

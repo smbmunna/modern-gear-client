@@ -15,7 +15,7 @@ import { Navigation } from 'swiper/modules';
 const Banner = () => {
     return (
         <div>
-            <Swiper navigation={true} modules={[Navigation]} className="bg-black">
+            <Swiper navigation={true} modules={[Navigation]} className="bg-gradient-to-r from-cyan-500 to-black">
                 <SwiperSlide className='px-16' >
                     <div className='flex items-center h-screen justify-between'>
                         <div>

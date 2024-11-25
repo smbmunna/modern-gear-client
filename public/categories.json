@@ -1,0 +1,63 @@
+[
+    {
+      "id": "CAT-0001",
+      "name": "Electronics",
+      "image": "https://i.ibb.co.com/GQ9w9tM/electronics.jpg", 
+      "description": "Latest gadgets, smartphones, laptops, and accessories."
+    },
+    {
+      "id": "CAT-0002",
+      "name": "Home Appliances",
+      "image": "https://i.ibb.co.com/xFWhb2h/home-app.jpg", 
+      "description": "Quality appliances to make your home smarter and more efficient."
+    },
+    {
+      "id": "CAT-0003",
+      "name": "Fashion",
+      "image": "https://i.ibb.co.com/3vddCwK/fashion.jpg", 
+      "description": "Trendy clothing, footwear, and accessories for men, women, and kids."
+    },
+    {
+      "id": "CAT-0004",
+      "name": "Personal Care",
+      "image": "https://i.ibb.co.com/cv5D8Qx/personal-care.jpg", 
+      "description": "Skincare, makeup, and grooming essentials."
+    },
+    {
+      "id": "CAT-0005",
+      "name": "Sports & Outdoors",
+      "image": "https://i.ibb.co.com/fGF6SW7/sports.jpg", 
+      "description": "Equipment and gear for fitness enthusiasts and outdoor adventurers."
+    },
+    {
+      "id": "CAT-0006",
+      "name": "Toys & Games",
+      "image": "https://i.ibb.co.com/xfFs83h/toys-Games.jpg", 
+      "description": "Fun and educational toys for kids of all ages."
+    },
+    {
+      "id": "CAT-0007",
+      "name": "Books & Stationery",
+      "image": "https://i.ibb.co.com/zP1WByZ/books.jpg",
+      "description": "Books, journals, and essential office supplies."
+    },
+    {
+      "id": "CAT-0008",
+      "name": "Grocery & Food",
+      "image": "https://i.ibb.co.com/Zg29qWy/groceries.jpg", 
+      "description": "Fresh groceries, snacks, and packaged food items."
+    },
+    {
+      "id": "CAT-0009",
+      "name": "Health & Wellness",
+      "image": "https://i.ibb.co.com/fktyd5T/health.jpg", 
+      "description": "Supplements, fitness equipment, and healthcare products."
+    },
+    {
+      "id": "CAT-0010",
+      "name": "Automotive",
+      "image": "https://i.ibb.co.com/k5ThY3z/car.jpg", 
+      "description": "Car and bike accessories, tools, and maintenance products."
+    }
+  ]
+  
